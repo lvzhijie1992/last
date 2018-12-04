@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 @property (strong,nonatomic) NSString *str;
-@property (strong,nonatomic) NSString *str1;
+@property (strong,nonatomic) NSString *str1;//////
 @end
 
 @implementation ViewController
